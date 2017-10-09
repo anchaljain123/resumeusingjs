@@ -3,8 +3,8 @@ This is empty on purpose! Your code to build the resume will go here.
  */
   var formattedName = HTMLheaderName.replace("%data%","ANCHAL Jain");
   var formattedRole = HTMLheaderRole.replace("%data%","Software Developer");
-  var formattedEmail = HTMLemail.replace("%data%","anchaljain14@gmail.com");
-  var formattedMobile = HTMLmobile.replace("%data%","9599165198");
+  var formattedEmail = HTMLemail.replace("%data%","a@gmail.com");
+  var formattedMobile = HTMLmobile.replace("%data%","1234567890");
   var formattedTwitter = HTMLtwitter.replace("%data%","anchaljain141");
   var formattedGit = HTMLgithub.replace("%data%","anchaljain123");
   var formattedLocation = HTMLlocation.replace("%data%","India");
